@@ -36,8 +36,6 @@ pip install -r requirements.txt
 `mamba-ssm` requires compilation. We use `--no-build-isolation` to ensure it uses the installed PyTorch and CUDA environment.
 
 ```bash  
-# Optional: Install causal-conv1d if not in requirements.txt  
-# pip install causal-conv1d>=1.2.0  
 
 pip install --no-build-isolation mamba-ssm==2.2.4  
 ```
@@ -76,13 +74,19 @@ After these two steps, the data is ready for inference.
 
 ## 🚀 Usage
 
-### Inference / Testing
-To run the inference on the processed data:
+### Training
+To train the model:
 
 ```bash  
-python test.py --config configs/config_setting.py  
+python train.py  
 ```
-*(Please adjust the command above according to your actual script name and arguments)*
+
+### Testing / Inference
+To run inference on the processed data:
+
+```bash  
+python test.py  
+```
 
 ---
 
