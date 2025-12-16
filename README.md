@@ -95,8 +95,7 @@ python test.py
 If you find this project useful, please cite our paper:
 
 ```bibtex  
-@inproceedings{
-bai2025chestomdl,
+@inproceedings{bai2025chestomdl,
 title={Chest-{OMDL}: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report},
 author={Xuguang Bai and Mingxuan Liu and Yifei Chen and Hongjia Yang and Qiyuan Tian},
 booktitle={Medical Imaging with Deep Learning},
