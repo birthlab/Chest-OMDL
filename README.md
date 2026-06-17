@@ -1,7 +1,4 @@
-# Chest-OMDL
-
-## 📄 Paper
-**Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report**
+# [MIDL 2025] Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report
 
 **Authors:** Xuguang Bai*, Mingxuan Liu*, Yifei Chen, Hongjia Yang, Qiyuan Tian
 
